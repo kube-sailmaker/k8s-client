@@ -1,4 +1,4 @@
-module github.com/kube-sailmaker/k8s
+module github.com/kube-sailmaker/k8s-client
 
 go 1.14
 
